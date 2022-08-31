@@ -17,8 +17,8 @@ your preferred browser.
 ```
 ✈️ Press on the Plane And fly with it✈️
 
-![Alt text](Airport-Customer-Review\ScreenShots\main.png?raw=true "Main Page")
+![Screenshot](Airport-Customer-Review\ScreenShots\main.png?raw=true "Main Page")
 
-![Alt text](Airport-Customer-Review\ScreenShots\page-1.png?raw=true "Page 1")
+![Screenshot](Airport-Customer-Review\ScreenShots\page-1.png?raw=true "Page 1")
 
-![Alt text](Airport-Customer-Review\ScreenShots\page-2.png?raw=true "Page 2")
+![Screenshot](Airport-Customer-Review\ScreenShots\page-2.png?raw=true "Page 2")
