@@ -16,3 +16,9 @@ your preferred browser.
 127.0.0.1:8050
 ```
 ✈️ Press on the Plane And fly with it✈️
+
+![Alt text](Airport-Customer-Review\ScreenShots\main.png?raw=true "Main Page")
+
+![Alt text](Airport-Customer-Review\ScreenShots\page-1.png?raw=true "Page 1")
+
+![Alt text](Airport-Customer-Review\ScreenShots\page-2.png?raw=true "Page 2")
