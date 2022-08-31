@@ -17,8 +17,8 @@ your preferred browser.
 ```
 ✈️ Press on the Plane And fly with it✈️
 
-![Alt text](ScreenShots\main.png?raw=true "Main Page")
+![Alt text](ScreenShots/main.png?raw=true "Main Page")
 
-![Alt text](ScreenShots\page-1.png?raw=true "Page 1")
+![Alt text](ScreenShots/page-1.png?raw=true "Page 1")
 
-![Alt text](ScreenShots\page-2.png?raw=true "Page 2")
+![Alt text](ScreenShots/page-2.png?raw=true "Page 2")
